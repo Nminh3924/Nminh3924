@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/nminh3924"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vunhatminh6842.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nminh3924&style=for-the-badge&color=38a0ff&label=Profile+views"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -43,28 +42,5 @@ Final-year Electronics & Telecommunications student at **Hanoi University of Sci
 | **Adversarial Robustness in ADAS** *(thesis)* | FGSM, PGD and adversarial-patch attacks on road-sign & obstacle detection; defenses via adversarial training and input pre-filtering | PyTorch · RobustBench · OpenCV |
 | **[Kalman State Prediction](https://github.com/Nminh3924/Kalman_state_pred)** | KF / EKF pipelines for target tracking and trajectory forecasting in automotive motion scenarios | C++ · Python · MATLAB |
 | **Edge AI Deployment** | PyTorch → ONNX → TensorRT (FP16/INT8) on Jetson, streaming results over UART/CAN to a simulated vehicle ECU | C++ · TensorRT · Embedded Linux |
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nminh3924&show_icons=true&bg_color=172f45&title_color=38a0ff&icon_color=bddfff&text_color=bddfff&hide_border=true&border_radius=10"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nminh3924&layout=compact&hide=dart&bg_color=172f45&title_color=38a0ff&icon_color=bddfff&text_color=bddfff&hide_border=true&border_radius=10"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nminh3924&background=172F45&ring=38A0FF&fire=38A0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38A0FF&sideLabels=BDDFFF&dates=6E93B5&stroke=6E93B5&hide_border=true&border_radius=10" width="70%"/>
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/prussian/0-profile-details.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nminh3924/Nminh3924/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nminh3924/Nminh3924/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Nminh3924/Nminh3924/output/github-snake.svg"/>
-  </picture>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d33,55:1565c0,100:38a0ff&height=100&section=footer" width="100%"/>

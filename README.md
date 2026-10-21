@@ -1,62 +1,70 @@
-<h1 align="center">Hi 👋, I'm Vũ Nhật Minh</h1>
-<h3 align="center">AI | ADAS Perception | Embedded AI</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=V%C5%A9%20Nh%E1%BA%ADt%20Minh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ADAS%20Perception%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3" width="100%"/>
+<p align="center">
+  <a href="https://github.com/Nminh3924">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Adversarial+Robustness+in+ADAS;Embedded+Edge+AI+%E2%80%94+Jetson+%C2%B7+TensorRT;Kalman+Filtering+%26+State+Estimation;Final-year+ET+student+%40+HUST" alt="Typing SVG"/>
+  </a>
+</p>
 
-## TL, DR
+<p align="center">
+  <a href="https://linkedin.com/in/nminh3924"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:vunhatminh6842.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Nminh3924&style=for-the-badge&color=7aa2f7&label=Profile+views"/>
+</p>
 
-Final-year Electronics & Telecommunications student at **Hanoi University of Science and Technology (HUST)**, researching **adversarial robustness of ADAS perception systems** and deploying deep learning models on embedded edge hardware. Looking for opportunities in automotive AI, embedded perception, and ADAS research & engineering.
+## 👨‍💻 About Me
 
----
+Final-year Electronics & Telecommunications student at **Hanoi University of Science and Technology (HUST)**, researching **adversarial robustness of ADAS perception systems** and deploying deep learning models on embedded edge hardware.
 
-## 💻 Tech Stack
+- 🔭 Currently working on my thesis: attacking & defending vision models for autonomous driving
+- 🚗 Interested in automotive AI, embedded perception, and ADAS research & engineering
+- 🌏 Vietnamese (native) · English (professional) · Chinese (conversational)
 
-#### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+## 🛠️ Tech Stack
 
-#### AI & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-%2300FFFF.svg?style=for-the-badge&logo=yolo&logoColor=black)
-![TensorRT](https://img.shields.io/badge/TensorRT-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,matlab,bash,pytorch,opencv,linux,git,cmake,latex,vscode&perline=12" />
+</p>
 
-#### Embedded & Edge
-![NVIDIA Jetson](https://img.shields.io/badge/Jetson-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
-![CAN](https://img.shields.io/badge/CAN%20%7C%20UART%20%7C%20SPI%20%7C%20I2C-%23333333.svg?style=for-the-badge&logo=circuitverse&logoColor=white)
-
-#### Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CAN%20%7C%20UART%20%7C%20SPI%20%7C%20I2C-333333?style=for-the-badge"/>
+</p>
 
 ## 🔬 Research & Projects
 
-- **Adversarial Robustness in ADAS Perception** *(thesis, ongoing)*: attacking and defending deep vision models (FGSM, PGD, adversarial patches on road signs) with adversarial training and input pre-filtering.
-- **[Kalman State Prediction](https://github.com/Nminh3924/Kalman_state_pred)**: KF / EKF pipelines for target tracking and trajectory forecasting in automotive motion scenarios.
-- **Edge AI Deployment**: PyTorch → ONNX → TensorRT (FP16/INT8) on Jetson, streaming inference results over UART/CAN to a simulated vehicle control unit.
+| Project | Description | Stack |
+|---|---|---|
+| **Adversarial Robustness in ADAS** *(thesis)* | FGSM, PGD and adversarial-patch attacks on road-sign & obstacle detection; defenses via adversarial training and input pre-filtering | PyTorch · RobustBench · OpenCV |
+| **[Kalman State Prediction](https://github.com/Nminh3924/Kalman_state_pred)** | KF / EKF pipelines for target tracking and trajectory forecasting in automotive motion scenarios | C++ · Python · MATLAB |
+| **Edge AI Deployment** | PyTorch → ONNX → TensorRT (FP16/INT8) on Jetson, streaming results over UART/CAN to a simulated vehicle ECU | C++ · TensorRT · Embedded Linux |
 
----
-
-## 📊 My GitHub Stats ![Profile views](https://komarev.com/ghpvc/?username=Nminh3924&color=blue)
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nminh3924&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nminh3924&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://linkedin.com/in/nminh3924"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vunhatminh6842.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nminh3924&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nminh3924&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Nminh3924&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nminh3924/Nminh3924/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nminh3924/Nminh3924/output/github-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Nminh3924/Nminh3924/output/github-snake.svg"/>
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=100&section=footer" width="100%"/>

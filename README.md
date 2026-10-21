@@ -1,15 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=V%C5%A9%20Nh%E1%BA%ADt%20Minh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20ADAS%20Perception%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d33,55:1565c0,100:38a0ff&height=200&section=header&text=V%C5%A9%20Nh%E1%BA%ADt%20Minh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20ADAS%20Perception%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Nminh3924">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Adversarial+Robustness+in+ADAS;Embedded+Edge+AI+%E2%80%94+Jetson+%C2%B7+TensorRT;Kalman+Filtering+%26+State+Estimation;Final-year+ET+student+%40+HUST" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=38A0FF&center=true&vCenter=true&width=600&lines=Adversarial+Robustness+in+ADAS;Embedded+Edge+AI+%E2%80%94+Jetson+%C2%B7+TensorRT;Kalman+Filtering+%26+State+Estimation;Final-year+ET+student+%40+HUST" alt="Typing SVG"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/nminh3924"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:vunhatminh6842.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Nminh3924&style=for-the-badge&color=7aa2f7&label=Profile+views"/>
+  <img src="https://komarev.com/ghpvc/?username=Nminh3924&style=for-the-badge&color=38a0ff&label=Profile+views"/>
 </p>
 
 ## 👨‍💻 About Me
@@ -47,16 +47,16 @@ Final-year Electronics & Telecommunications student at **Hanoi University of Sci
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nminh3924&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nminh3924&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nminh3924&show_icons=true&bg_color=172f45&title_color=38a0ff&icon_color=bddfff&text_color=bddfff&hide_border=true&border_radius=10"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nminh3924&layout=compact&hide=dart&bg_color=172f45&title_color=38a0ff&icon_color=bddfff&text_color=bddfff&hide_border=true&border_radius=10"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nminh3924&theme=tokyonight&hide_border=true&border_radius=10" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=Nminh3924&background=172F45&ring=38A0FF&fire=38A0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38A0FF&sideLabels=BDDFFF&dates=6E93B5&stroke=6E93B5&hide_border=true&border_radius=10" width="70%"/>
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
+  <img src="./profile-summary-card-output/prussian/0-profile-details.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -67,4 +67,4 @@ Final-year Electronics & Telecommunications student at **Hanoi University of Sci
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d33,55:1565c0,100:38a0ff&height=100&section=footer" width="100%"/>

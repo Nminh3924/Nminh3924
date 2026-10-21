@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=V%C5%A9%20Nh%E1%BA%ADt%20Minh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20%26%20ADAS%20Perception%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=200&section=header&text=V%C5%A9%20Nh%E1%BA%ADt%20Minh&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=AI%20%C2%B7%20ADAS%20Perception%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <a href="https://github.com/Nminh3924">
